@@ -1,27 +1,33 @@
-
 # rn-photobay
 
 📸 Welcome to Photobay, a React Native project inspired by the iconic Instagram experience. This single-page app is a clone design of Instagram. Immerse yourself in a beautifully designed interface featuring a static stories view and a dynamic feed view, where you can like images and discover new content. 🚀
 
-<center>
-    <img src="./asset/readmeImage.gif" alt="gif" style="width: 200px;height: 200px;"/>
-</center>
-
-<!-- ![Gif](./asset/readmeImage.gif) -->
-
+<div>
+    <img src="./asset/readmeImage.gif" alt="gif" style="display: block;
+     width: 50%;
+     margin: auto;"/>
+</div>
 
 ## Screenshots
 
-![App Screenshot](asset/screenshot1.png)
-![App Screenshot](asset/screenshot2.png)
-
+<div style="display: flex; justify-content: center;">
+  <img src="./asset/screenshot1.png" alt="App Screenshot" 
+        style="display: block;
+        height: 300px;
+        width: '50%';
+        margin: auto;"/>
+    <img src="./asset/screenshot2.png" alt="App Screenshot" 
+        style="display: block;
+        height: 300px;
+        width: '50%';
+        margin: auto;"/>
+</div>
 
 ## Features
 
 - 📚 Static Stories: Engaging stories view.
 - 🔄 Refreshable Feed: Pull down to refresh and discover new posts.
 - 📱 Cross-Platform: Compatible with iOS and Android.
-
 
 ## Installation
 
@@ -37,6 +43,7 @@ Install rn-photobay with npm
   cd rn-photobay
   npm i --force
 ```
+
 I'm using auto-height-image package which is deprecated in react-native so force installation is needed.
 
 #### Install bundle files
@@ -66,16 +73,16 @@ No specific installation required for android.
 ```bash
   npm run start
 ```
+
 ## Troubleshooting
 
 ##### Gradle build error in android:
+
 - Open Android Studio
 - Files > Sync files with project
 - Build > Clean project
 - Build > Rebuild project
 
-
 ## Authors
 
 - [@rajat258](https://github.com/rajat258)
-

@@ -3,8 +3,11 @@
 
 📸 Welcome to Photobay, a React Native project inspired by the iconic Instagram experience. This single-page app is a clone design of Instagram. Immerse yourself in a beautifully designed interface featuring a static stories view and a dynamic feed view, where you can like images and discover new content. 🚀
 
-
-![Gif](./asset/readmeImage.gif)
+<img src="./asset/readmeImage.gif" alt="gif" style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;"/>
+<!-- ![Gif](./asset/readmeImage.gif) -->
 
 
 ## Screenshots

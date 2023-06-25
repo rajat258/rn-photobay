@@ -13,12 +13,12 @@
 <div style="display: flex; justify-content: center;">
   <img src="./asset/screenshot1.png" alt="App Screenshot" 
         style="display: block;
-        height: 300px;
+        height: 400px;
         width: '50%';
         margin: auto;"/>
     <img src="./asset/screenshot2.png" alt="App Screenshot" 
         style="display: block;
-        height: 300px;
+        height: 400px;
         width: '50%';
         margin: auto;"/>
 </div>

@@ -8,12 +8,12 @@
 - 🔄 Refreshable Feed: Pull down to refresh and discover new posts.
 - 📱 Cross-Platform: Compatible with iOS and Android.
 
-<div>
+<!-- <div>
     <img src="./asset/readmeImage.gif" alt="gif" style="display: block;
      width: '100%';
      height: '100%';
      margin: auto;"/>
-</div>
+</div> -->
 
 ## Screenshots
 

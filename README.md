@@ -4,7 +4,7 @@
 
 <div>
     <img src="./asset/readmeImage.gif" alt="gif" style="display: block;
-     width: 50%;
+     width: '50%';
      margin: auto;"/>
 </div>
 
